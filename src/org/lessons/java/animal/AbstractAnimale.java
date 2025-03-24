@@ -5,7 +5,7 @@ public abstract class AbstractAnimale {
  protected String verso;
  protected String mangia;
     
-public AbstractAnimale (String dormi,String verso, String mangia){
+public AbstractAnimale (String verso, String mangia){
     this.dormi = "zzZZZzz";
     this.verso = verso;
     this.mangia = mangia;
