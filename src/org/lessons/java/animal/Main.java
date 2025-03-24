@@ -14,6 +14,11 @@ public class Main {
 System.out.println(Nina.dormi);
  System.out.println(Nina.mangia);
  System.out.println(Nina.verso);
+ System.out.println(Nina.Volando());
+
+ Delfino Flipper = new Delfino("fa il verso del delfino", "Il Delfino Mangia");
+
+ System.out.println(Flipper.nuotare());
 
     }
 
